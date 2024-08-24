@@ -38,6 +38,7 @@ Red color points are on the convex side, yellow point are ont the concave side.
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_1.jpg width="600" >
 <b>
 &nbsp;<br>
+&nbsp;<br>
 
  
  2), Transfer point and it's nearest neighbors to new datum, then the local Z+ direction is straight upwards.
