@@ -7,7 +7,7 @@ Try project point to face (consists of points in .csv) along face normal or fixe
 
 
 ## Point interpolation along pt_cloud face normal
-Suppose we a point near pt_cloud, this method tries project the point on the "face" of point cloud 
+Suppose we have a point near pt_cloud, this method tries project the point on the "face" of point cloud along face normal
 
 ## 1, How the point cloud looks like
 The pt_cloud consists of points with coordinates in CSV format.
