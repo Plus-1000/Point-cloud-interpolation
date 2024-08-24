@@ -2,7 +2,7 @@
 Try project point to face (pt cloud, coordinate in csv) along face normal or fixed vector
 
 <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1%20probe%2020%20pts.jpg width="600" >
+<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p0.jpg width="600" >
 <b>
 ![image](https://github.com/user-attachments/assets/1c637130-6883-4ef3-8ae5-a874f7eb5cae)
 
