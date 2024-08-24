@@ -1,5 +1,5 @@
 # Point-cloud-interpolation
-Try project point to face (pt cloud, coordinate in csv) along face normal or fixed vector
+Try project point to face (consists of points in .csv) along face normal or fixed vector
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p0.jpg width="600" >
