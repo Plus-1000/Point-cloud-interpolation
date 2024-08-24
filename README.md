@@ -65,11 +65,11 @@ Red color points are on the convex side, yellow point are ont the concave side.
  
 ## 4, Check the result
 <p align="center">
-<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_1.jpg width="600" >
+<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p4.jpg width="600" >
 <b>
 &nbsp;<br>
 
 ## 5, Factors affecting interpolation accuracy:
-* The number of points selected for interpolation
+* The number of points selected that will be involved in interpolation
 * The griddata method (‘linear’, ‘nearest’, ‘cubic’)
 * Other factors (e.g., point cloud quality)
