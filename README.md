@@ -19,7 +19,9 @@ The pt_cloud consists of points with coordinates in CSV format.
 ## 2, About the points which will be projected onto pt_cloud "face"
 Red color points are on the convex side, yellow point are ont the concave side. 
 
-![Alt text](image-13.png)
+<p align="center">
+<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p2.jpg width="600" >
+<b>
 &nbsp;<br>
 
 ## 3, About the calculation: * Item 1
