@@ -11,9 +11,9 @@ Suppose we have a point near pt_cloud, this method tries project the point on th
 
 ## 1, How the point cloud looks like
 The pt_cloud consists of points with coordinates in CSV format.
-
-
-
+<p align="center">
+<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p1.jpg width="600" >
+<b>
 &nbsp;<br>
 
 ## 2, About the points which will be projected onto pt_cloud "face"
@@ -32,9 +32,6 @@ Red color points are on the convex side, yellow point are ont the concave side.
 
 &nbsp;<br>
  1), Find nearest points on pt_cloud and the point vector.
-<p align="center">
-<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p1.jpg width="600" >
-<b>
 
 
  
