@@ -51,14 +51,14 @@ Red color points are on the convex side, yellow point are ont the concave side.
  
  3), Use scipy.interpolation.griddata, to get the distance from the point to face 
 <p align="center">
-<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_1.jpg width="600" >
+<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_4.jpg width="600" >
 <b>
 &nbsp;<br>
 &nbsp;<br>
  
  4), Return to the original coordinate system, move the point along the opposite direction of the point vector, and save this point.
 <p align="center">
-<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_1.jpg width="600" >
+<img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_4.jpg width="600" >
 <b>
 &nbsp;<br>
 &nbsp;<br>
