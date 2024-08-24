@@ -4,7 +4,7 @@ Try project point to face (pt cloud, coordinate in csv) along face normal or fix
 <p align="center">
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p0.jpg width="600" >
 <b>
-![image](https://github.com/user-attachments/assets/1c637130-6883-4ef3-8ae5-a874f7eb5cae)
+
 
 # Point interpolation along pt_cloud face normal
 Suppose we a point near pt_cloud, this method tries project the point on the "face" of point cloud 
