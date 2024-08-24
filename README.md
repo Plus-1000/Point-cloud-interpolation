@@ -1,8 +1,4 @@
 # Point-cloud-interpolation
-<style>
-pre[class*=language-]
-{font-size: 0.8em;} 
-</style>
 Try project point to face (consists of points in .csv) along face normal or fixed vector
 
 <p align="center">
