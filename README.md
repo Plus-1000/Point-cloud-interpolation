@@ -73,3 +73,7 @@ Red color points are on the convex side, yellow point are ont the concave side.
 * The number of points selected that will be involved in interpolation
 * The griddata method (‘linear’, ‘nearest’, ‘cubic’)
 * Other factors (e.g., point cloud quality)
+&nbsp;<br>
+
+## Point interpolation along fixed vector
+Please check: Interp_3D_along_fix_vector.py
