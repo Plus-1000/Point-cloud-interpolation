@@ -27,7 +27,7 @@ Red color points are on the convex side, yellow point are ont the concave side.
 &nbsp;<br>
 &nbsp;<br>
  
-## 3, About the calculation: * Item 1
+## 3, About the calculation: 
 * Nearest points and face normal
 * Rotete nearest pts and pt along the Z axis upward
 * Interpolation calculation, get the distance from pt to grid
@@ -77,7 +77,7 @@ Red color points are on the convex side, yellow point are ont the concave side.
 &nbsp;<br>
 &nbsp;<br>
 
-## Point interpolation along fixed vector
+## 6, Point interpolation along fixed vector
 Please check: Interp_3D_along_fix_vector.py
 
 &nbsp;<br>
