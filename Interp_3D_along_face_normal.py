@@ -121,10 +121,10 @@ def one_point_interp(pt_cloud, pt, k): # k number of points involoved in interpo
 if __name__=='__main__':
     k=25 # number of points involoved in interpolation
     
-    df = pd.read_csv(curr_path+'\\pts\\'+'pts_cloud.csv', header=None) # no noisy reduction
+    df = pd.read_csv(curr_path+'\\pts\\'+'pts_cloud.csv', header=None) 
     pt_cloud = df.values # 将点云数据转换为numpy数组
 
-    df = pd.read_csv(curr_path+'\\pts\\' + 'pt_input.csv', header=None) # no noisy reduction
+    df = pd.read_csv(curr_path+'\\pts\\' + 'pt_input.csv', header=None) 
     pt_input = df.values # 将点云数据转换为numpy数组
 
     # interp loop
