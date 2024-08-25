@@ -1,4 +1,3 @@
-# pip install pandas numpy scipy scikit-learn
 import pandas as pd
 import numpy as np
 import os
@@ -123,7 +122,7 @@ def one_point_interp(pt_cloud, pt, vec1): # k number of points involoved in inte
 # ======  Main() ================
 if __name__=='__main__':
     k=25 # number of points involoved in interpolation
-    # vec1=[2.903868880,-2.546656479,1.518528619]
+    # vec1=[2.903868880,-2.546656479,1.518528619] # fixed vector
     vec1=[-11,0.1,0.1] # about same as X axis
     print(vec1)
     vec1= vec1/np.linalg.norm(vec1)
