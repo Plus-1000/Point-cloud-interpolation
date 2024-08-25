@@ -1,5 +1,4 @@
-# pip install pandas numpy scipy scikit-learn
-# last version tested on 2024.Aug.02
+# last test on 2024.Aug.02
 import pandas as pd
 import numpy as np
 import os
