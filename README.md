@@ -1,5 +1,5 @@
 # "Point-cloud-interpolation"
-Try projecting the point onto the face (which consisting of points in a .csv file) along the face normal or a fixed vector
+Try projecting the point onto the face (which consists of points in a .csv file) along the face normal or a fixed vector, or find the closest point from pt_cloud
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p0.jpg width="600" >
@@ -8,7 +8,7 @@ Try projecting the point onto the face (which consisting of points in a .csv fil
 &nbsp;<br>
  
 ## Point interpolation along pt_cloud face normal
-Suppose we have a point near pt_cloud, this method tries project the point on the "face" of point cloud along face normal
+Suppose we have a point near pt_cloud, this method tries to project the point on the "face" of the point cloud along the face normal
 
 ## 1, How the point cloud looks like
 The pt_cloud consists of points with coordinates in CSV format.
@@ -19,7 +19,7 @@ The pt_cloud consists of points with coordinates in CSV format.
 &nbsp;<br>
  
 ## 2, About the points which will be projected onto pt_cloud "face"
-Red color points are on the convex side, yellow point are ont the concave side. 
+Red color points are on the convex side, yellow points are on the concave side. 
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p2.jpg width="600" >
@@ -29,7 +29,7 @@ Red color points are on the convex side, yellow point are ont the concave side.
  
 ## 3, About the calculation: 
 * Nearest points and face normal
-* Rotete nearest pts and pt along the Z axis upward
+* Rotate nearest pts and pt along the Z axis upward
 * Interpolation calculation, get the distance from pt to grid
 * Back to original 
 &nbsp;<br>
