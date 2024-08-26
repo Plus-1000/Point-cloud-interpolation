@@ -82,7 +82,7 @@ Please check: Interp_3D_along_fix_vector.py
 &nbsp;<br>
 &nbsp;<be>
 
-## 6, Find the closest point from pt_cloud
+## 7, Find the closest point from pt_cloud
 Please check: Interp_3D_closest.py
 &nbsp;<br>
 &nbsp;<br>
