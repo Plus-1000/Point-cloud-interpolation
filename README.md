@@ -42,7 +42,7 @@ Red color points are on the convex side, yellow points are on the concave side.
 &nbsp;<br>
 
  
- 2), Transfer point and it's nearest neighbors to new datum, then the local Z+ direction is straight upwards.
+ 2), Transfer point and it's nearest neighbors to new datum, which's Z+ direction is straight upwards.
 <p align="center">
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_2.jpg width="600" >
 <b>
