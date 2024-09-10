@@ -56,7 +56,7 @@ Red color points are on the convex side, yellow points are on the concave side.
 &nbsp;<br>
 &nbsp;<br>
  
- 4), Return to the original coordinate system, move the point along the opposite direction of the point vector, and save this point.
+ 4), Return to the original datum, we move the point in the opposite direction of its vector by the previously calculated distance, resulting in the interpolated point.
 <p align="center">
 <img src=https://github.com/Plus-1000/Point-cloud-interpolation/blob/main/pic/p3_4.jpg width="600" >
 <b>
