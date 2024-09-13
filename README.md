@@ -29,7 +29,7 @@ Red color points are on the convex side, yellow points are on the concave side.
  
 ## 3, About the calculation: 
 * Nearest points and face normal
-* Rotate nearest pts and pt along the Z axis upward
+* Rotate the datum and the involved points, ensuring the Z+ direction remains straight and upward
 * Interpolation calculation, get the distance from pt to grid
 * Back to original 
 &nbsp;<br>
