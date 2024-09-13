@@ -71,8 +71,8 @@ Red color points are on the convex side, yellow points are on the concave side.
 &nbsp;<br>
  
 ## 5, Factors affecting interpolation accuracy:
-* The number of points selected that will be involved in interpolation
-* The griddata method (‘linear’, ‘nearest’, ‘cubic’)
+* The number of points (selected to proceed with interpolation)
+* The griddata parameter (‘linear’, ‘nearest’, ‘cubic’)
 * Other factors (e.g., point cloud quality)
 &nbsp;<br>
 &nbsp;<br>
